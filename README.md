@@ -1,2 +1,2 @@
 # Do-rulama-sayfas-
-Next Sosyal profilimi doğrulamak için oluşturulmuş bir site
+<meta name="fediverse:creator" content="@redslop0@sosyal.teknofest.app">
